@@ -52,5 +52,3 @@ The objective is simple: react quickly to on-screen targets and achieve the high
 ## 👩‍💻 Author
 
 **Shreya Dubey**
-
-[GitHub](https://github.com/shreyad2806)
